@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laravel/ui": "^3.4",
+        "pear/http_request2": "^2.5"
+    }
+}

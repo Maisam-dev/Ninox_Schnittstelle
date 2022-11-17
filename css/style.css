@@ -1,0 +1,74 @@
+.container{
+    min-height: 100vh;
+    min-width: 100vw;
+    margin: 0;
+    padding: 0;
+    background-image: url("vogfoto.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(255,150,150,0.200);
+    background-blend-mode: lighten;
+}
+
+.container-fluid{
+    text-align: center;
+    display:table-cell;
+    vertical-align: middle;
+     width: 100vw;
+    color:Black;
+    height:15vh;
+    background-color: #ffc107;
+   // background-color: rgba(255,193,7,0.750);
+    border-radius: 100px;
+}
+
+.contain{
+    height:80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#cont-but,#cont-but2{
+    display: inline-flex;
+    background-color: rgba(0,0,0,0.600);
+    padding:100px 50px 50px 100px;
+    border-radius: 100px;
+}
+
+input[type=submit] {
+    margin: 10px;
+    width:200px;
+}
+
+.form-check-label{
+  font-weight:900;
+}
+
+.footer{
+   position: fixed;
+    bottom: 0;
+    height:5vh;
+}
+
+.spinner-border{
+    width: 1rem;
+    height: 1rem;
+    display:none;
+}
+
+.btn{
+    border-radius: 100px;
+}
+.div-contain{
+
+    padding: 20px;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+.container-fluid{
+    background-color: rgba(30,91,58,0.500) !important;
+}
+
+.text-warning{
+    color: #3A463E  !important;
+}
+
+.btn-warning {
+    background: #8cab9a !important;
+}
+
+#cont-but,#cont-but2{
+    background-color: rgba(30,91,65,0.500) !important;
+}
